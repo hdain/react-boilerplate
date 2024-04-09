@@ -1,8 +1,14 @@
-# React + Vite
+# React Boilerplate 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A boilerplate for minimal website using React, Vite, Tailwind CSS.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Install
+```
+git clone https://github.com/hdain/react-boilerplate.git your-project-name
+cd your-project-name
+yarn
+```
+### Start
+```
+yarn dev
+```

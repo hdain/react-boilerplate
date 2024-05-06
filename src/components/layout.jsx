@@ -6,7 +6,7 @@ export default function Layout({ children }) {
     <>
       <Header />
 
-      <main className="flex h-[calc(100vh-74px)] flex-col items-center justify-center pt-50">
+      <main className="flex flex-col items-center justify-center pt-50">
         {children}
       </main>
 
